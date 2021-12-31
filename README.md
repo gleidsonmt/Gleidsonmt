@@ -35,5 +35,5 @@
 </div>
   
 ##
-![Snake animation](https://github.com/gleidson28/gleidsonmt/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/gleidsonmt/blob/output/github-contribution-grid-snake.svg)  
  
