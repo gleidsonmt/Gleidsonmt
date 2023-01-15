@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/gleidsonmt">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gleidsonmt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleidsonmt&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleidsonmt&theme=dark&layout=compact&langs_count=7"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gleidsonmt&theme=dark&include_all_commits=true&count_private=tru"/>
   </a>
 </div>
-  
+
   ##
   
 - 🌱 I’m currently learning UX Designer, TypeScript
