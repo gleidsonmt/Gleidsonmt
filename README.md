@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+##
+![Snake animation](https://github.com/gleidsonmt/Gleidsonmt/blob/output/github-contribution-grid-snake.svg)  
+
 <div align="left">
   <a href="https://github.com/gleidsonmt">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleidsonmt&theme=dark&layout=compact&langs_count=7"/>
@@ -34,6 +37,5 @@
 
 </div>
   
-##
-![Snake animation](https://github.com/gleidsonmt/Gleidsonmt/blob/output/github-contribution-grid-snake.svg)  
+
  
