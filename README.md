@@ -36,7 +36,8 @@
  
   
 <a href="https://leetcode.com/gleidsonmt/">Leet Code</a>
-  <a href="https://www.hackerrank.com/gleidisonmt">HackerRank</a>
+<br>
+<a href="https://www.hackerrank.com/gleidisonmt">HackerRank</a>
 
 </div>
   
