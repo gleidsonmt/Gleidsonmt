@@ -2,9 +2,6 @@
 - 🌱 I’m currently learning UX Designer, TypeScript<br>- 👯 I’m looking to collaborate on my JavaFx projects<br>- 🤔 I’m discovering rest apis<br>- 💬 Ask me about JavaFx<br>- ⚡ Stay Focus.
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gleidsonmt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=gleidsonmt&theme=dark&hide_border=false)</br>
 
 
 # 💻 Tech Stack:
@@ -15,6 +12,11 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gleidson-neves-da-silveira-50353a1b2)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@gleidsonneves5895) 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gleidsonmt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=gleidsonmt&theme=dark&hide_border=false)</br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gleidsonmt&icon=0&color=1)](https://visitcount.itsvg.in)
