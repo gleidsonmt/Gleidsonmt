@@ -27,7 +27,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gleidsonmt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=gleidsonmt&theme=dark&border_color=000000&card_width=1000&include_all_commits=true&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=gleidsonmt&theme=dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)</br>
 
 ---
