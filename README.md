@@ -1,5 +1,14 @@
 # 💫 About Me:
-- 🌱 I’m currently learning UX Designer, TypeScript<br>- 👯 I’m looking to collaborate on my JavaFx projects<br>- 🤔 I’m discovering rest apis<br>- 💬 Ask me about JavaFx<br>- ⚡ Stay Focus.
+<br>
+- 🤖 Hello there! I'm Gleidson, a software developer with a passion for Java and all things internet-related. I specialize in designing and developing robust software solutions that not only meet clients' requirements but also provide an exceptional user experience.
+ <br><br>
+- 👯 I’m looking to collaborate on my JavaFx projects and things can help people to conect each others.
+ <br><br>
+- 🤔 Now I'm studying react apps.
+ <br><br>
+- 💬 If you have an issue that I can help.. 
+ <br><br>
+-⚡ Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ― Martin Fowler.
 
 
 
@@ -16,8 +25,13 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+ 
+
+
  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+
 <br>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gleidsonmt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
