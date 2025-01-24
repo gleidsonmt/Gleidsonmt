@@ -25,11 +25,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
- 
+ ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-
- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
 <br>
@@ -42,7 +40,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gleidsonmt&theme=dark&border_color=000000&card_width=1000&include_all_commits=true&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=gleidsonmt&theme=dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)</br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=gleidsonmt&theme=dark&hide_border=true)](https://git.io/streak-stats)</br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gleidsonmt&icon=0&color=1)](https://visitcount.itsvg.in)
