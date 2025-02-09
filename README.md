@@ -45,6 +45,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gleidsonmt&icon=0&color=1)](https://visitcount.itsvg.in)
 <!-- <img src='https://gleidsonmt.github.io/img/man.jpg'> -->
-![Programing Man](https://raw.githubusercontent.com/gleidsonmt/visual_studio_style/main/man.jpg "Programin Man")
+<!-- ![Programing Man](https://raw.githubusercontent.com/gleidsonmt/visual_studio_style/main/man.jpg "Programin Man") -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- [](https://github.com/gleidsonmt/Gleidsonmt.github.io/blob/master/src/assets/img/carousel/fintory.png) -->
+[](https://raw.githubusercontent.com/gleidsonmt/gleidsonmt.github.io/master/src/assets/img/carousel/fintory.png)
  
