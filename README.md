@@ -48,5 +48,9 @@
 <!-- ![Programing Man](https://raw.githubusercontent.com/gleidsonmt/visual_studio_style/main/man.jpg "Programin Man") -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- [](https://github.com/gleidsonmt/Gleidsonmt.github.io/blob/master/src/assets/img/carousel/fintory.png) -->
-[](https://raw.githubusercontent.com/gleidsonmt/gleidsonmt.github.io/master/src/assets/img/carousel/fintory.png)
+
+
+Case Studies With JavaFx
  
+| ![Fintory](https://raw.githubusercontent.com/gleidsonmt/Gleidsonmt.github.io/refs/heads/master/src/assets/img/carousel/fintory.png) | ![Fitmaeal](https://raw.githubusercontent.com/gleidsonmt/Gleidsonmt.github.io/refs/heads/master/src/assets/img/carousel/fitmeal.png) |  
+|--------------------|---------------------|
