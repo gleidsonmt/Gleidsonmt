@@ -35,7 +35,7 @@
 <!--  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) -->
 
 ## Study cases with JavaFx
-|[![Fintory](https://raw.githubusercontent.com/gleidsonmt/Gleidsonmt.github.io/refs/heads/master/src/assets/img/carousel/fintory.png)](https://github.com/gleidsonmt/fintory)|[![Fitmaeal](https://raw.githubusercontent.com/gleidsonmt/Gleidsonmt.github.io/refs/heads/master/src/assets/img/carousel/fitmeal.png)]()|
+|[![Fintory](https://raw.githubusercontent.com/gleidsonmt/Gleidsonmt.github.io/refs/heads/master/src/assets/img/carousel/fintory.png)](https://github.com/gleidsonmt/fintory)|[![Fitmaeal](https://raw.githubusercontent.com/gleidsonmt/Gleidsonmt.github.io/refs/heads/master/src/assets/img/carousel/fitmeal.png)](https://github.com/gleidsonmt/fitmeal)|
 |-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 
  ## 🌐 Socials:
